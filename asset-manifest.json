@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Arithmetic_Operations/static/css/main.344388e4.css",
+    "main.js": "/Arithmetic_Operations/static/js/main.2e257d0a.js",
+    "static/js/787.31563bb8.chunk.js": "/Arithmetic_Operations/static/js/787.31563bb8.chunk.js",
+    "index.html": "/Arithmetic_Operations/index.html",
+    "main.344388e4.css.map": "/Arithmetic_Operations/static/css/main.344388e4.css.map",
+    "main.2e257d0a.js.map": "/Arithmetic_Operations/static/js/main.2e257d0a.js.map",
+    "787.31563bb8.chunk.js.map": "/Arithmetic_Operations/static/js/787.31563bb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.344388e4.css",
+    "static/js/main.2e257d0a.js"
+  ]
+}
